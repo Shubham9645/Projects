@@ -7,7 +7,6 @@ for(let i=0;i<=n;i++){
     console.log("*");
 }
 
-
 let temp="";
 for(let i=0;i<n;i++){
     temp+="*";
